@@ -1,10 +1,10 @@
 var now = new Date();
 function createtime() {
   now.setTime(now.getTime() + 1e3);
-  var e = new Date("12/19/2022 18:02:00"),
+  var e = new Date("12/19/2023 18:02:00"),
     t = Math.trunc(234e8 + ((now - e) / 1e3) * 17),
     a = (t / 1496e5).toFixed(6),
-    o = new Date("12/16/2022 00:00:00"),
+    o = new Date("12/16/2023 00:00:00"),
     n = (now - o) / 1e3 / 60 / 60 / 24,
     r = Math.floor(n),
     i = (now - o) / 1e3 / 60 / 60 - 24 * r,
