@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>post</title>
+      <link href="/2024/01/08/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3win10%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%B3%E5%87%BB%E6%A1%8C%E9%9D%A2%E9%97%AA%E7%99%BD%E5%B1%8F%E5%92%8C%E5%8D%A1%E9%A1%BF%E9%97%AE%E9%A2%98/"/>
+      <url>/2024/01/08/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3win10%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%B3%E5%87%BB%E6%A1%8C%E9%9D%A2%E9%97%AA%E7%99%BD%E5%B1%8F%E5%92%8C%E5%8D%A1%E9%A1%BF%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;最近 win10 更新后右击桌面后卡顿而且闪白屏，在网上找了好多方法都没有用，看了事件查看器，发现.NET runtime 保存，然后去下载了好几个 dll 修复软件，结果还是没用，后来把在设置中卸载了最近安装的“用于 Microsoft Windows 的安全更新”发现解决了这个问题</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> windows问题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>渚，生日快乐！</title>
       <link href="/2023/12/24/%E6%B8%9A%EF%BC%8C%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81/"/>
       <url>/2023/12/24/%E6%B8%9A%EF%BC%8C%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81/</url>

@@ -6,7 +6,7 @@
   <link href="https://www.em1ra.top/atom.xml" rel="self"/>
   
   <link href="https://www.em1ra.top/"/>
-  <updated>2023-12-24T14:57:31.547Z</updated>
+  <updated>2024-01-08T10:40:41.672Z</updated>
   <id>https://www.em1ra.top/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post</title>
+    <link href="https://www.em1ra.top/2024/01/08/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3win10%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%B3%E5%87%BB%E6%A1%8C%E9%9D%A2%E9%97%AA%E7%99%BD%E5%B1%8F%E5%92%8C%E5%8D%A1%E9%A1%BF%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.em1ra.top/2024/01/08/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3win10%E6%9B%B4%E6%96%B0%E5%90%8E%E5%8F%B3%E5%87%BB%E6%A1%8C%E9%9D%A2%E9%97%AA%E7%99%BD%E5%B1%8F%E5%92%8C%E5%8D%A1%E9%A1%BF%E9%97%AE%E9%A2%98/</id>
+    <published>2024-01-08T10:21:50.000Z</published>
+    <updated>2024-01-08T10:40:41.672Z</updated>
+    
+    <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;最近 win10 更新后右击桌面后卡顿而且闪白屏，在网上找了好多方法都没有用，看了事件查看器，发现.NET runtime 保存，然后去下载了好几个 dll 修复软件，结果还是没用，后来把在设置中卸载了最近安装的“用于 Microsoft Windows 的安全更新”发现解决了这个问题</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;最近 win10 更新后右击桌面后卡顿而且闪白屏，在网上找了好多方法都没有用，看了事件查看器，发现.NET runtime 保存，然后去下载了好几个 dll 修复软件，结果还是没用，后来把在设置中卸载了最近安装的“用于 Mic</summary>
+      
+    
+    
+    
+    <category term="个人日记" scheme="https://www.em1ra.top/categories/%E4%B8%AA%E4%BA%BA%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="windows问题" scheme="https://www.em1ra.top/tags/windows%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>渚，生日快乐！</title>
